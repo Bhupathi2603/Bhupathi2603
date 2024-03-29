@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhupathi2603
 - 👀 I’m interested in ...flutter app development
-- 🌱 I’m currently learning ...completed flutter ,dart 
+- 🌱 I’m ...completed flutter ,dart 
 - 💞️ I’m looking to collaborate on ...flutter fresher job 
 - 📫 How to reach me ...9133505481
 
